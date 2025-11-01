@@ -61,4 +61,3 @@ print( Employee1.Employee_Details() , Employee1.Employee_check() )
 
 ## Result
 Thus the output is verified.
-
